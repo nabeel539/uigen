@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwrite",
+      "mcp__playwrite__browser_type",
+      "mcp__playwrite__browser_take_screenshot"
+    ]
+  }
+}
